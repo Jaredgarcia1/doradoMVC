@@ -1,0 +1,14 @@
+C:\Users\LENOVO L460\source\repos\doradoMVC\bin\Debug\doradoMVC.exe
+C:\Users\LENOVO L460\source\repos\doradoMVC\bin\Debug\doradoMVC.exe.config
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.csproj.AssemblyReference.cache
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.login.resources
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.inicio.resources
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.Producto.resources
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.Properties.Resources.resources
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.csproj.GenerateResource.cache
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.exe
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.pdb
+C:\Users\LENOVO L460\source\repos\doradoMVC\bin\Debug\doradoMVC.pdb
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.Inventario.resources
+C:\Users\LENOVO L460\source\repos\doradoMVC\obj\Debug\doradoMVC.Ordenes.resources
